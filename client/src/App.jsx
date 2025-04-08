@@ -185,12 +185,8 @@ function App() {
   const [customText, setCustomText] = useState("");
   const [customTextVisible, setCustomTextVisible] = useState(false);
 
-  useEffect(() => {
-    console.log("Custom text updated:", customText);
-  }, [customText]);
 
   // Refs to store history of typed and target text
-  // const endTime= useRef(null);
   const typedHistoryRef = useRef("");
   const targetHistoryRef = useRef("");
   const timerIntervalRef = useRef(null);
