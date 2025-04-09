@@ -2,6 +2,12 @@
 
 This project is a **Typing Speed Test** application built with React and Vite. It allows users to practice typing, measure their typing speed (WPM), and track their accuracy. The app includes features like difficulty selection, custom text input, and sound effects.
 
+
+## 🚀 Live Demo
+Check out the live version of the app here: [Typing Speed Test](https://typing-game-tan-five.vercel.app/)
+
+
+
 ## Features
 
 - **Difficulty Levels**: Choose between `Easy`, `Medium`, and `Hard` difficulty levels.
